@@ -444,7 +444,7 @@ a:active {
         white-space: nowrap;
         display: flex;
         flex-wrap: wrap;
-        overflow-y: hidden;
+        overflow-x: hidden;
 
         font-size: 16px;
 
