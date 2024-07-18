@@ -303,6 +303,8 @@ a:active {
 
 .main__more-info {
     display: flex;
+    background: url("images/more-info.svg") no-repeat 0 3px;
+    margin-left: 10px;
 
 
 }
@@ -311,12 +313,14 @@ a:active {
     margin-left: 8px;
     font-weight: 600;
     font-size: 16px;
-
-}
-
-.main__more-info-img {
     padding-left: 10px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+
 }
+
+
 
 .main__pic {
     width: 105%;
